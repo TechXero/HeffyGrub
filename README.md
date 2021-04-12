@@ -1,6 +1,6 @@
 # Hefftor Grub Theme
 
-![Hefftor](https://i.imgur.com/Yx5EnG2.png)
+![Hefftor](https://i.imgur.com/6JIrzWo.png)
 
 This is where Hefftor Grub Theme will be. Constantly updated so keep coming back. I included a script that makes installing much easier, just follow steps below :<br />
 
